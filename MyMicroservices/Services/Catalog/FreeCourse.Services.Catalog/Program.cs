@@ -1,13 +1,29 @@
+using FreeCourse.Services.Catalog.Settings;
+using Microsoft.Extensions.Options;
+
 var builder = WebApplication.CreateBuilder(args);
 
 
 
 //
+
 builder.Services.AddAutoMapper(typeof(Program));
+
 //
 
 
 builder.Services.AddControllers();
+
+//
+
+builder.Services.Configure<DatabaseSettings>(builder.Configuration.GetSection("DatabaseSettings"));
+builder.Services.AddSingleton<IDatabaseSettings>(sp=>
+{
+    return sp.GetRequiredService<IOptions<DatabaseSettings>>().Value;
+});
+
+//
+
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
