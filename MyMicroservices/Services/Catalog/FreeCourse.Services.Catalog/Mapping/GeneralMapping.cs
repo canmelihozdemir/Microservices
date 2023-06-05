@@ -4,7 +4,7 @@ using FreeCourse.Services.Catalog.Models;
 
 namespace FreeCourse.Services.Catalog.Mapping
 {
-    public class GeneralMapping:Profile
+    internal class GeneralMapping:Profile
     {
         public GeneralMapping()
         {
