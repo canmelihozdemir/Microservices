@@ -21,7 +21,7 @@ namespace FreeCourse.Services.Catalog.Controllers
 
         [HttpGet("{id}")] public async Task<IActionResult> GetByIdAsync(string id) => CreateActionResultInstance(await _courseService.GetByIdAsync(id));
 
-        [Route("/api/[controller]/GetAllByUserIdAsync/{userId}")] public async Task<IActionResult> GetAllByUserIdAsync(string userId) => CreateActionResultInstance(await _courseService.GetAllByUserIdAsync(userId));
+        [HttpGet][Route("/api/[controller]/GetAllByUserIdAsync/{userId}")] public async Task<IActionResult> GetAllByUserIdAsync(string userId) => CreateActionResultInstance(await _courseService.GetAllByUserIdAsync(userId));
 
         [HttpPost] public async Task<IActionResult> CreateAsync(CourseCreateDto request) => CreateActionResultInstance(await _courseService.CreateAsync(request));
 
