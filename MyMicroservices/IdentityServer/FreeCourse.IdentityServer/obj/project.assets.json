@@ -2434,24 +2434,16 @@
       },
       "FreeCourse.Shared/1.0.0": {
         "type": "project",
-<<<<<<< HEAD
-        "framework": "Unsupported,Version=v0.0",
-=======
         "framework": ".NETCoreApp,Version=v3.1",
->>>>>>> feature/identityServer
         "compile": {
           "bin/placeholder/FreeCourse.Shared.dll": {}
         },
         "runtime": {
           "bin/placeholder/FreeCourse.Shared.dll": {}
-<<<<<<< HEAD
-        }
-=======
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
->>>>>>> feature/identityServer
       }
     }
   },
@@ -7403,20 +7395,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
-<<<<<<< HEAD
-  },
-  "logs": [
-    {
-      "code": "NU1201",
-      "level": "Error",
-      "message": "Project FreeCourse.Shared is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project FreeCourse.Shared supports: net7.0 (.NETCoreApp,Version=v7.0)",
-      "libraryId": "FreeCourse.Shared",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
-=======
   }
->>>>>>> feature/identityServer
 }

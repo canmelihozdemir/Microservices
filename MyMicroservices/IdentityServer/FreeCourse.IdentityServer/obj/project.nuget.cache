@@ -1,12 +1,7 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "XOTuuqKJRUCxyXNRb/s9jf89/7nQ7VZh9Ai8L1hDkMuw1stD3z9FMK7hZSG29CKJpG7ohmu6yY0t2QSqbBTp+w==",
-  "success": false,
-=======
   "dgSpecHash": "FuKH6hHZsG0msVjGXOOc/XaT1xUh0WjwqV9kH341Lk6VPLvtWbGBTLpJosNyyLhLW+zeosPCLvFH0RJZgA6HTw==",
   "success": true,
->>>>>>> feature/identityServer
   "projectFilePath": "C:\\Users\\Melih\\Desktop\\Melih\\projeler\\C#23\\Microservices\\MyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Melih\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
@@ -151,19 +146,5 @@
     "C:\\Users\\Melih\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Melih\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-<<<<<<< HEAD
-  "logs": [
-    {
-      "code": "NU1201",
-      "level": "Error",
-      "message": "Project FreeCourse.Shared is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project FreeCourse.Shared supports: net7.0 (.NETCoreApp,Version=v7.0)",
-      "libraryId": "FreeCourse.Shared",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
-=======
   "logs": []
->>>>>>> feature/identityServer
 }

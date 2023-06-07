@@ -1,0 +1,8 @@
+C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.csproj.AssemblyReference.cache
+C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.AssemblyInfoInputs.cache
+C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.AssemblyInfo.cs
+C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.RazorAssemblyInfo.cache
+C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.RazorAssemblyInfo.cs
