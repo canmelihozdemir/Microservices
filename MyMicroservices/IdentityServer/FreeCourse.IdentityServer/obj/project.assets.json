@@ -2434,13 +2434,24 @@
       },
       "FreeCourse.Shared/1.0.0": {
         "type": "project",
+<<<<<<< HEAD
         "framework": "Unsupported,Version=v0.0",
+=======
+        "framework": ".NETCoreApp,Version=v3.1",
+>>>>>>> feature/identityServer
         "compile": {
           "bin/placeholder/FreeCourse.Shared.dll": {}
         },
         "runtime": {
           "bin/placeholder/FreeCourse.Shared.dll": {}
+<<<<<<< HEAD
         }
+=======
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+>>>>>>> feature/identityServer
       }
     }
   },
@@ -7392,6 +7403,7 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
+<<<<<<< HEAD
   },
   "logs": [
     {
@@ -7404,4 +7416,7 @@
       ]
     }
   ]
+=======
+  }
+>>>>>>> feature/identityServer
 }
