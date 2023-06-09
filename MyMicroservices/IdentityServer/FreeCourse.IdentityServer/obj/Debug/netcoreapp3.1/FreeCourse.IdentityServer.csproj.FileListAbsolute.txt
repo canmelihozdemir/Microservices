@@ -141,3 +141,4 @@ C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\Identit
 C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.dll
 C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.pdb
 C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.genruntimeconfig.cache
+C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.MvcApplicationPartsAssemblyInfo.cs
