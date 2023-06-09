@@ -3,3 +3,8 @@ C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\Shared\
 C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.AssemblyInfoInputs.cache
 C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.AssemblyInfo.cs
 C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.deps.json
+C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.dll
+C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.pdb
+C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.dll
+C:\Users\Melih\Desktop\Melih\projeler\C#23\Microservices\MyMicroservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.pdb

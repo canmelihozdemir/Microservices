@@ -42,7 +42,7 @@ namespace FreeCourse.IdentityServer
                 new Client
                 {
                     ClientName="Asp.Net Core MVC Test",
-                    ClientId="WebMvcClient Test",
+                    ClientId="WebMvcClientTest",
                     ClientSecrets={new Secret("secretTest".Sha256())},
                     AllowedGrantTypes=GrantTypes.ClientCredentials,
                     AllowedScopes={ "catalog_fullpermission", "photo_stock_fullpermssion", IdentityServerConstants.LocalApi.ScopeName }
